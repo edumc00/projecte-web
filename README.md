@@ -2,3 +2,5 @@
 
 ## Descripción
 Proyecto de ejemplo de LLM
+
+## Requerimientos
